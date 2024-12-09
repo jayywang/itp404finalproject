@@ -1,0 +1,2181 @@
+{
+  "states": [
+    {
+      "id": 1,
+      "name": "Alabama",
+      "abbreviation": "AL",
+      "capital": "Montgomery",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 2,
+      "name": "Alaska",
+      "abbreviation": "AK",
+      "capital": "Juneau",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 3,
+      "name": "Arizona",
+      "abbreviation": "AZ",
+      "capital": "Phoenix",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 4,
+      "name": "Arkansas",
+      "abbreviation": "AR",
+      "capital": "Little Rock",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 5,
+      "name": "California",
+      "abbreviation": "CA",
+      "capital": "Sacramento",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 6,
+      "name": "Colorado",
+      "abbreviation": "CO",
+      "capital": "Denver",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 7,
+      "name": "Connecticut",
+      "abbreviation": "CT",
+      "capital": "Hartford",
+      "bookmarked": true,
+      "bookmarkDate": "2024-12-09T00:19:35.682Z"
+    },
+    {
+      "id": 8,
+      "name": "Delaware",
+      "abbreviation": "DE",
+      "capital": "Dover",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 9,
+      "name": "Florida",
+      "abbreviation": "FL",
+      "capital": "Tallahassee",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 10,
+      "name": "Georgia",
+      "abbreviation": "GA",
+      "capital": "Atlanta",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 11,
+      "name": "Hawaii",
+      "abbreviation": "HI",
+      "capital": "Honolulu",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 12,
+      "name": "Idaho",
+      "abbreviation": "ID",
+      "capital": "Boise",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 13,
+      "name": "Illinois",
+      "abbreviation": "IL",
+      "capital": "Springfield",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 14,
+      "name": "Indiana",
+      "abbreviation": "IN",
+      "capital": "Indianapolis",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 15,
+      "name": "Iowa",
+      "abbreviation": "IA",
+      "capital": "Des Moines",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 16,
+      "name": "Kansas",
+      "abbreviation": "KS",
+      "capital": "Topeka",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 17,
+      "name": "Kentucky",
+      "abbreviation": "KY",
+      "capital": "Frankfort",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 18,
+      "name": "Louisiana",
+      "abbreviation": "LA",
+      "capital": "Baton Rouge",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 19,
+      "name": "Maine",
+      "abbreviation": "ME",
+      "capital": "Augusta",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 20,
+      "name": "Maryland",
+      "abbreviation": "MD",
+      "capital": "Annapolis",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 21,
+      "name": "Massachusetts",
+      "abbreviation": "MA",
+      "capital": "Boston",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 22,
+      "name": "Michigan",
+      "abbreviation": "MI",
+      "capital": "Lansing",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 23,
+      "name": "Minnesota",
+      "abbreviation": "MN",
+      "capital": "Saint Paul",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 24,
+      "name": "Mississippi",
+      "abbreviation": "MS",
+      "capital": "Jackson",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 25,
+      "name": "Missouri",
+      "abbreviation": "MO",
+      "capital": "Jefferson City",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 26,
+      "name": "Montana",
+      "abbreviation": "MT",
+      "capital": "Helena",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 27,
+      "name": "Nebraska",
+      "abbreviation": "NE",
+      "capital": "Lincoln",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 28,
+      "name": "Nevada",
+      "abbreviation": "NV",
+      "capital": "Carson City",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 29,
+      "name": "New Hampshire",
+      "abbreviation": "NH",
+      "capital": "Concord",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 30,
+      "name": "New Jersey",
+      "abbreviation": "NJ",
+      "capital": "Trenton",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 31,
+      "name": "New Mexico",
+      "abbreviation": "NM",
+      "capital": "Santa Fe",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 32,
+      "name": "New York",
+      "abbreviation": "NY",
+      "capital": "Albany",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 33,
+      "name": "North Carolina",
+      "abbreviation": "NC",
+      "capital": "Raleigh",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 34,
+      "name": "North Dakota",
+      "abbreviation": "ND",
+      "capital": "Bismarck",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 35,
+      "name": "Ohio",
+      "abbreviation": "OH",
+      "capital": "Columbus",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 36,
+      "name": "Oklahoma",
+      "abbreviation": "OK",
+      "capital": "Oklahoma City",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 37,
+      "name": "Oregon",
+      "abbreviation": "OR",
+      "capital": "Salem",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 38,
+      "name": "Pennsylvania",
+      "abbreviation": "PA",
+      "capital": "Harrisburg",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 39,
+      "name": "Rhode Island",
+      "abbreviation": "RI",
+      "capital": "Providence",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 40,
+      "name": "South Carolina",
+      "abbreviation": "SC",
+      "capital": "Columbia",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 41,
+      "name": "South Dakota",
+      "abbreviation": "SD",
+      "capital": "Pierre",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 42,
+      "name": "Tennessee",
+      "abbreviation": "TN",
+      "capital": "Nashville",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 43,
+      "name": "Texas",
+      "abbreviation": "TX",
+      "capital": "Austin",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 44,
+      "name": "Utah",
+      "abbreviation": "UT",
+      "capital": "Salt Lake City",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 45,
+      "name": "Vermont",
+      "abbreviation": "VT",
+      "capital": "Montpelier",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 46,
+      "name": "Virginia",
+      "abbreviation": "VA",
+      "capital": "Richmond",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 47,
+      "name": "Washington",
+      "abbreviation": "WA",
+      "capital": "Olympia",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 48,
+      "name": "West Virginia",
+      "abbreviation": "WV",
+      "capital": "Charleston",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 49,
+      "name": "Wisconsin",
+      "abbreviation": "WI",
+      "capital": "Madison",
+      "bookmarked": false,
+      "bookmarkDate": null
+    },
+    {
+      "id": 50,
+      "name": "Wyoming",
+      "abbreviation": "WY",
+      "capital": "Cheyenne",
+      "bookmarked": false,
+      "bookmarkDate": null
+    }
+  ],
+  "cities": [
+    {
+      "id": 1,
+      "name": "Birmingham",
+      "stateId": 1
+    },
+    {
+      "id": 2,
+      "name": "Montgomery",
+      "stateId": 1
+    },
+    {
+      "id": 3,
+      "name": "Mobile",
+      "stateId": 1
+    },
+    {
+      "id": 4,
+      "name": "Anchorage",
+      "stateId": 2
+    },
+    {
+      "id": 5,
+      "name": "Juneau",
+      "stateId": 2
+    },
+    {
+      "id": 6,
+      "name": "Fairbanks",
+      "stateId": 2
+    },
+    {
+      "id": 7,
+      "name": "Phoenix",
+      "stateId": 3
+    },
+    {
+      "id": 8,
+      "name": "Tucson",
+      "stateId": 3
+    },
+    {
+      "id": 9,
+      "name": "Mesa",
+      "stateId": 3
+    },
+    {
+      "id": 10,
+      "name": "Little Rock",
+      "stateId": 4
+    },
+    {
+      "id": 11,
+      "name": "Fort Smith",
+      "stateId": 4
+    },
+    {
+      "id": 12,
+      "name": "Fayetteville",
+      "stateId": 4
+    },
+    {
+      "id": 13,
+      "name": "Los Angeles",
+      "stateId": 5
+    },
+    {
+      "id": 14,
+      "name": "San Francisco",
+      "stateId": 5
+    },
+    {
+      "id": 15,
+      "name": "San Diego",
+      "stateId": 5
+    },
+    {
+      "id": 16,
+      "name": "Denver",
+      "stateId": 6
+    },
+    {
+      "id": 17,
+      "name": "Colorado Springs",
+      "stateId": 6
+    },
+    {
+      "id": 18,
+      "name": "Aurora",
+      "stateId": 6
+    },
+    {
+      "id": 19,
+      "name": "Hartford",
+      "stateId": 7
+    },
+    {
+      "id": 20,
+      "name": "New Haven",
+      "stateId": 7
+    },
+    {
+      "id": 21,
+      "name": "Stamford",
+      "stateId": 7
+    },
+    {
+      "id": 22,
+      "name": "Wilmington",
+      "stateId": 8
+    },
+    {
+      "id": 23,
+      "name": "Dover",
+      "stateId": 8
+    },
+    {
+      "id": 24,
+      "name": "Newark",
+      "stateId": 8
+    },
+    {
+      "id": 25,
+      "name": "Miami",
+      "stateId": 9
+    },
+    {
+      "id": 26,
+      "name": "Orlando",
+      "stateId": 9
+    },
+    {
+      "id": 27,
+      "name": "Tampa",
+      "stateId": 9
+    },
+    {
+      "id": 28,
+      "name": "Atlanta",
+      "stateId": 10
+    },
+    {
+      "id": 29,
+      "name": "Savannah",
+      "stateId": 10
+    },
+    {
+      "id": 30,
+      "name": "Augusta",
+      "stateId": 10
+    },
+    {
+      "id": 31,
+      "name": "Honolulu",
+      "stateId": 11
+    },
+    {
+      "id": 32,
+      "name": "Hilo",
+      "stateId": 11
+    },
+    {
+      "id": 33,
+      "name": "Kailua",
+      "stateId": 11
+    },
+    {
+      "id": 34,
+      "name": "Boise",
+      "stateId": 12
+    },
+    {
+      "id": 35,
+      "name": "Meridian",
+      "stateId": 12
+    },
+    {
+      "id": 36,
+      "name": "Nampa",
+      "stateId": 12
+    },
+    {
+      "id": 37,
+      "name": "Chicago",
+      "stateId": 13
+    },
+    {
+      "id": 38,
+      "name": "Aurora",
+      "stateId": 13
+    },
+    {
+      "id": 39,
+      "name": "Naperville",
+      "stateId": 13
+    },
+    {
+      "id": 40,
+      "name": "Indianapolis",
+      "stateId": 14
+    },
+    {
+      "id": 41,
+      "name": "Fort Wayne",
+      "stateId": 14
+    },
+    {
+      "id": 42,
+      "name": "Evansville",
+      "stateId": 14
+    },
+    {
+      "id": 43,
+      "name": "Des Moines",
+      "stateId": 15
+    },
+    {
+      "id": 44,
+      "name": "Cedar Rapids",
+      "stateId": 15
+    },
+    {
+      "id": 45,
+      "name": "Davenport",
+      "stateId": 15
+    },
+    {
+      "id": 46,
+      "name": "Wichita",
+      "stateId": 16
+    },
+    {
+      "id": 47,
+      "name": "Overland Park",
+      "stateId": 16
+    },
+    {
+      "id": 48,
+      "name": "Kansas City",
+      "stateId": 16
+    },
+    {
+      "id": 49,
+      "name": "Louisville",
+      "stateId": 17
+    },
+    {
+      "id": 50,
+      "name": "Lexington",
+      "stateId": 17
+    },
+    {
+      "id": 51,
+      "name": "Bowling Green",
+      "stateId": 17
+    },
+    {
+      "id": 52,
+      "name": "New Orleans",
+      "stateId": 18
+    },
+    {
+      "id": 53,
+      "name": "Baton Rouge",
+      "stateId": 18
+    },
+    {
+      "id": 54,
+      "name": "Shreveport",
+      "stateId": 18
+    },
+    {
+      "id": 55,
+      "name": "Portland",
+      "stateId": 19
+    },
+    {
+      "id": 56,
+      "name": "Lewiston",
+      "stateId": 19
+    },
+    {
+      "id": 57,
+      "name": "Bangor",
+      "stateId": 19
+    },
+    {
+      "id": 58,
+      "name": "Baltimore",
+      "stateId": 20
+    },
+    {
+      "id": 59,
+      "name": "Frederick",
+      "stateId": 20
+    },
+    {
+      "id": 60,
+      "name": "Rockville",
+      "stateId": 20
+    },
+    {
+      "id": 61,
+      "name": "Boston",
+      "stateId": 21
+    },
+    {
+      "id": 62,
+      "name": "Worcester",
+      "stateId": 21
+    },
+    {
+      "id": 63,
+      "name": "Springfield",
+      "stateId": 21
+    },
+    {
+      "id": 64,
+      "name": "Detroit",
+      "stateId": 22
+    },
+    {
+      "id": 65,
+      "name": "Grand Rapids",
+      "stateId": 22
+    },
+    {
+      "id": 66,
+      "name": "Warren",
+      "stateId": 22
+    },
+    {
+      "id": 67,
+      "name": "Minneapolis",
+      "stateId": 23
+    },
+    {
+      "id": 68,
+      "name": "Saint Paul",
+      "stateId": 23
+    },
+    {
+      "id": 69,
+      "name": "Rochester",
+      "stateId": 23
+    },
+    {
+      "id": 70,
+      "name": "Jackson",
+      "stateId": 24
+    },
+    {
+      "id": 71,
+      "name": "Gulfport",
+      "stateId": 24
+    },
+    {
+      "id": 72,
+      "name": "Southaven",
+      "stateId": 24
+    },
+    {
+      "id": 73,
+      "name": "Kansas City",
+      "stateId": 25
+    },
+    {
+      "id": 74,
+      "name": "Saint Louis",
+      "stateId": 25
+    },
+    {
+      "id": 75,
+      "name": "Springfield",
+      "stateId": 25
+    },
+    {
+      "id": 76,
+      "name": "Billings",
+      "stateId": 26
+    },
+    {
+      "id": 77,
+      "name": "Missoula",
+      "stateId": 26
+    },
+    {
+      "id": 78,
+      "name": "Great Falls",
+      "stateId": 26
+    },
+    {
+      "id": 79,
+      "name": "Omaha",
+      "stateId": 27
+    },
+    {
+      "id": 80,
+      "name": "Lincoln",
+      "stateId": 27
+    },
+    {
+      "id": 81,
+      "name": "Bellevue",
+      "stateId": 27
+    },
+    {
+      "id": 82,
+      "name": "Las Vegas",
+      "stateId": 28
+    },
+    {
+      "id": 83,
+      "name": "Henderson",
+      "stateId": 28
+    },
+    {
+      "id": 84,
+      "name": "Reno",
+      "stateId": 28
+    },
+    {
+      "id": 85,
+      "name": "Manchester",
+      "stateId": 29
+    },
+    {
+      "id": 86,
+      "name": "Nashua",
+      "stateId": 29
+    },
+    {
+      "id": 87,
+      "name": "Concord",
+      "stateId": 29
+    },
+    {
+      "id": 88,
+      "name": "Newark",
+      "stateId": 30
+    },
+    {
+      "id": 89,
+      "name": "Jersey City",
+      "stateId": 30
+    },
+    {
+      "id": 90,
+      "name": "Paterson",
+      "stateId": 30
+    },
+    {
+      "id": 91,
+      "name": "Albuquerque",
+      "stateId": 31
+    },
+    {
+      "id": 92,
+      "name": "Las Cruces",
+      "stateId": 31
+    },
+    {
+      "id": 93,
+      "name": "Rio Rancho",
+      "stateId": 31
+    },
+    {
+      "id": 94,
+      "name": "New York City",
+      "stateId": 32
+    },
+    {
+      "id": 95,
+      "name": "Buffalo",
+      "stateId": 32
+    },
+    {
+      "id": 96,
+      "name": "Rochester",
+      "stateId": 32
+    },
+    {
+      "id": 97,
+      "name": "Charlotte",
+      "stateId": 33
+    },
+    {
+      "id": 98,
+      "name": "Raleigh",
+      "stateId": 33
+    },
+    {
+      "id": 99,
+      "name": "Greensboro",
+      "stateId": 33
+    },
+    {
+      "id": 100,
+      "name": "Fargo",
+      "stateId": 34
+    },
+    {
+      "id": 101,
+      "name": "Bismarck",
+      "stateId": 34
+    },
+    {
+      "id": 102,
+      "name": "Grand Forks",
+      "stateId": 34
+    },
+    {
+      "id": 103,
+      "name": "Columbus",
+      "stateId": 35
+    },
+    {
+      "id": 104,
+      "name": "Cleveland",
+      "stateId": 35
+    },
+    {
+      "id": 105,
+      "name": "Cincinnati",
+      "stateId": 35
+    },
+    {
+      "id": 106,
+      "name": "Oklahoma City",
+      "stateId": 36
+    },
+    {
+      "id": 107,
+      "name": "Tulsa",
+      "stateId": 36
+    },
+    {
+      "id": 108,
+      "name": "Norman",
+      "stateId": 36
+    },
+    {
+      "id": 109,
+      "name": "Portland",
+      "stateId": 37
+    },
+    {
+      "id": 110,
+      "name": "Eugene",
+      "stateId": 37
+    },
+    {
+      "id": 111,
+      "name": "Salem",
+      "stateId": 37
+    },
+    {
+      "id": 112,
+      "name": "Philadelphia",
+      "stateId": 38
+    },
+    {
+      "id": 113,
+      "name": "Pittsburgh",
+      "stateId": 38
+    },
+    {
+      "id": 114,
+      "name": "Allentown",
+      "stateId": 38
+    },
+    {
+      "id": 115,
+      "name": "Providence",
+      "stateId": 39
+    },
+    {
+      "id": 116,
+      "name": "Warwick",
+      "stateId": 39
+    },
+    {
+      "id": 117,
+      "name": "Cranston",
+      "stateId": 39
+    },
+    {
+      "id": 118,
+      "name": "Columbia",
+      "stateId": 40
+    },
+    {
+      "id": 119,
+      "name": "Charleston",
+      "stateId": 40
+    },
+    {
+      "id": 120,
+      "name": "North Charleston",
+      "stateId": 40
+    },
+    {
+      "id": 121,
+      "name": "Sioux Falls",
+      "stateId": 41
+    },
+    {
+      "id": 122,
+      "name": "Rapid City",
+      "stateId": 41
+    },
+    {
+      "id": 123,
+      "name": "Aberdeen",
+      "stateId": 41
+    },
+    {
+      "id": 124,
+      "name": "Nashville",
+      "stateId": 42
+    },
+    {
+      "id": 125,
+      "name": "Memphis",
+      "stateId": 42
+    },
+    {
+      "id": 126,
+      "name": "Knoxville",
+      "stateId": 42
+    },
+    {
+      "id": 127,
+      "name": "Houston",
+      "stateId": 43
+    },
+    {
+      "id": 128,
+      "name": "Dallas",
+      "stateId": 43
+    },
+    {
+      "id": 129,
+      "name": "Austin",
+      "stateId": 43
+    },
+    {
+      "id": 130,
+      "name": "Salt Lake City",
+      "stateId": 44
+    },
+    {
+      "id": 131,
+      "name": "West Valley City",
+      "stateId": 44
+    },
+    {
+      "id": 132,
+      "name": "Provo",
+      "stateId": 44
+    },
+    {
+      "id": 133,
+      "name": "Burlington",
+      "stateId": 45
+    },
+    {
+      "id": 134,
+      "name": "South Burlington",
+      "stateId": 45
+    },
+    {
+      "id": 135,
+      "name": "Rutland",
+      "stateId": 45
+    },
+    {
+      "id": 136,
+      "name": "Virginia Beach",
+      "stateId": 46
+    },
+    {
+      "id": 137,
+      "name": "Norfolk",
+      "stateId": 46
+    },
+    {
+      "id": 138,
+      "name": "Chesapeake",
+      "stateId": 46
+    },
+    {
+      "id": 139,
+      "name": "Seattle",
+      "stateId": 47
+    },
+    {
+      "id": 140,
+      "name": "Spokane",
+      "stateId": 47
+    },
+    {
+      "id": 141,
+      "name": "Tacoma",
+      "stateId": 47
+    },
+    {
+      "id": 142,
+      "name": "Charleston",
+      "stateId": 48
+    },
+    {
+      "id": 143,
+      "name": "Huntington",
+      "stateId": 48
+    },
+    {
+      "id": 144,
+      "name": "Morgantown",
+      "stateId": 48
+    },
+    {
+      "id": 145,
+      "name": "Milwaukee",
+      "stateId": 49
+    },
+    {
+      "id": 146,
+      "name": "Madison",
+      "stateId": 49
+    },
+    {
+      "id": 147,
+      "name": "Green Bay",
+      "stateId": 49
+    },
+    {
+      "id": 148,
+      "name": "Cheyenne",
+      "stateId": 50
+    },
+    {
+      "id": 149,
+      "name": "Casper",
+      "stateId": 50
+    }
+  ],
+  "attractions": [
+    {
+      "id": 1,
+      "name": "U.S. Space & Rocket Center",
+      "stateId": 1,
+      "cost": "25"
+    },
+    {
+      "id": 2,
+      "name": "Gulf Shores",
+      "stateId": 1,
+      "cost": "0"
+    },
+    {
+      "id": 3,
+      "name": "Little River Canyon National Preserve",
+      "stateId": 1,
+      "cost": "0"
+    },
+    {
+      "id": 4,
+      "name": "Denali National Park",
+      "stateId": 2,
+      "cost": "15"
+    },
+    {
+      "id": 5,
+      "name": "Glacier Bay National Park",
+      "stateId": 2,
+      "cost": "0"
+    },
+    {
+      "id": 6,
+      "name": "Kenai Fjords National Park",
+      "stateId": 2,
+      "cost": "0"
+    },
+    {
+      "id": 7,
+      "name": "Grand Canyon National Park",
+      "stateId": 3,
+      "cost": "35"
+    },
+    {
+      "id": 8,
+      "name": "Sedona",
+      "stateId": 3,
+      "cost": "0"
+    },
+    {
+      "id": 9,
+      "name": "Saguaro National Park",
+      "stateId": 3,
+      "cost": "20"
+    },
+    {
+      "id": 10,
+      "name": "Hot Springs National Park",
+      "stateId": 4,
+      "cost": "0"
+    },
+    {
+      "id": 11,
+      "name": "Crystal Bridges Museum of American Art",
+      "stateId": 4,
+      "cost": "0"
+    },
+    {
+      "id": 12,
+      "name": "Little Rock Central High School National Historic Site",
+      "stateId": 4,
+      "cost": "0"
+    },
+    {
+      "id": 13,
+      "name": "Yosemite National Park",
+      "stateId": 5,
+      "cost": "35"
+    },
+    {
+      "id": 14,
+      "name": "Golden Gate Bridge",
+      "stateId": 5,
+      "cost": "0"
+    },
+    {
+      "id": 15,
+      "name": "Disneyland Park",
+      "stateId": 5,
+      "cost": "130"
+    },
+    {
+      "id": 16,
+      "name": "Rocky Mountain National Park",
+      "stateId": 6,
+      "cost": "30"
+    },
+    {
+      "id": 17,
+      "name": "Garden of the Gods",
+      "stateId": 6,
+      "cost": "0"
+    },
+    {
+      "id": 18,
+      "name": "Mesa Verde National Park",
+      "stateId": 6,
+      "cost": "30"
+    },
+    {
+      "id": 19,
+      "name": "Yale University",
+      "stateId": 7,
+      "cost": "0"
+    },
+    {
+      "id": 20,
+      "name": "Mark Twain House",
+      "stateId": 7,
+      "cost": "15"
+    },
+    {
+      "id": 21,
+      "name": "Mystic Seaport",
+      "stateId": 7,
+      "cost": "28"
+    },
+    {
+      "id": 22,
+      "name": "Winterthur Museum, Garden, and Library",
+      "stateId": 8,
+      "cost": "20"
+    },
+    {
+      "id": 23,
+      "name": "Rehoboth Beach",
+      "stateId": 8,
+      "cost": "0"
+    },
+    {
+      "id": 24,
+      "name": "Nemours Estate",
+      "stateId": 8,
+      "cost": "15"
+    },
+    {
+      "id": 25,
+      "name": "Walt Disney World",
+      "stateId": 9,
+      "cost": "110"
+    },
+    {
+      "id": 26,
+      "name": "Universal Studios Orlando",
+      "stateId": 9,
+      "cost": "120"
+    },
+    {
+      "id": 27,
+      "name": "Everglades National Park",
+      "stateId": 9,
+      "cost": "30"
+    },
+    {
+      "id": 28,
+      "name": "Georgia Aquarium",
+      "stateId": 10,
+      "cost": "35"
+    },
+    {
+      "id": 29,
+      "name": "Stone Mountain Park",
+      "stateId": 10,
+      "cost": "15"
+    },
+    {
+      "id": 30,
+      "name": "Savannah Historic District",
+      "stateId": 10,
+      "cost": "0"
+    },
+    {
+      "id": 31,
+      "name": "Haleakalā National Park",
+      "stateId": 11,
+      "cost": "30"
+    },
+    {
+      "id": 32,
+      "name": "Hanauma Bay Nature Preserve",
+      "stateId": 11,
+      "cost": "12"
+    },
+    {
+      "id": 33,
+      "name": "Waikiki Beach",
+      "stateId": 11,
+      "cost": "0"
+    },
+    {
+      "id": 34,
+      "name": "Shoshone Falls",
+      "stateId": 12,
+      "cost": "0"
+    },
+    {
+      "id": 35,
+      "name": "Boise River Greenbelt",
+      "stateId": 12,
+      "cost": "0"
+    },
+    {
+      "id": 36,
+      "name": "Idaho Falls Zoo",
+      "stateId": 12,
+      "cost": "10"
+    },
+    {
+      "id": 37,
+      "name": "Lincoln Home National Historic Site",
+      "stateId": 13,
+      "cost": "0"
+    },
+    {
+      "id": 38,
+      "name": "The Field Museum",
+      "stateId": 13,
+      "cost": "30"
+    },
+    {
+      "id": 39,
+      "name": "Millennium Park",
+      "stateId": 13,
+      "cost": "0"
+    },
+    {
+      "id": 40,
+      "name": "Indianapolis Motor Speedway",
+      "stateId": 14,
+      "cost": "10"
+    },
+    {
+      "id": 41,
+      "name": "The Children's Museum of Indianapolis",
+      "stateId": 14,
+      "cost": "24"
+    },
+    {
+      "id": 42,
+      "name": "Eagle Creek Park",
+      "stateId": 14,
+      "cost": "5"
+    },
+    {
+      "id": 43,
+      "name": "The Iowa State Capitol",
+      "stateId": 15,
+      "cost": "0"
+    },
+    {
+      "id": 44,
+      "name": "Pikes Peak",
+      "stateId": 16,
+      "cost": "0"
+    },
+    {
+      "id": 45,
+      "name": "Keeneland",
+      "stateId": 17,
+      "cost": "0"
+    },
+    {
+      "id": 46,
+      "name": "The French Quarter",
+      "stateId": 18,
+      "cost": "0"
+    },
+    {
+      "id": 47,
+      "name": "Acadia National Park",
+      "stateId": 19,
+      "cost": "30"
+    },
+    {
+      "id": 48,
+      "name": "Fort McHenry",
+      "stateId": 20,
+      "cost": "0"
+    },
+    {
+      "id": 49,
+      "name": "Fenway Park",
+      "stateId": 21,
+      "cost": "0"
+    },
+    {
+      "id": 50,
+      "name": "The Henry Ford Museum",
+      "stateId": 22,
+      "cost": "20"
+    },
+    {
+      "id": 51,
+      "name": "Mall of America",
+      "stateId": 23,
+      "cost": "0"
+    },
+    {
+      "id": 52,
+      "name": "Jackson Zoo",
+      "stateId": 24,
+      "cost": "15"
+    },
+    {
+      "id": 53,
+      "name": "Gateway Arch",
+      "stateId": 25,
+      "cost": "0"
+    },
+    {
+      "id": 54,
+      "name": "Glacier National Park",
+      "stateId": 26,
+      "cost": "35"
+    },
+    {
+      "id": 55,
+      "name": "Omaha's Henry Doorly Zoo",
+      "stateId": 27,
+      "cost": "28"
+    },
+    {
+      "id": 56,
+      "name": "Red Rock Canyon National Conservation Area",
+      "stateId": 28,
+      "cost": "15"
+    },
+    {
+      "id": 57,
+      "name": "Mount Rainier National Park",
+      "stateId": 29,
+      "cost": "30"
+    },
+    {
+      "id": 58,
+      "name": "Mackinac Island",
+      "stateId": 30,
+      "cost": "0"
+    },
+    {
+      "id": 59,
+      "name": "The Mall of America",
+      "stateId": 31,
+      "cost": "0"
+    },
+    {
+      "id": 60,
+      "name": "Mount Rushmore",
+      "stateId": 32,
+      "cost": "10"
+    },
+    {
+      "id": 61,
+      "name": "Great Smoky Mountains National Park",
+      "stateId": 33,
+      "cost": "35"
+    },
+    {
+      "id": 62,
+      "name": "Nashville Music City Walk of Fame",
+      "stateId": 34,
+      "cost": "0"
+    },
+    {
+      "id": 63,
+      "name": "Big Bend National Park",
+      "stateId": 35,
+      "cost": "30"
+    },
+    {
+      "id": 64,
+      "name": "Austin City Limits Live",
+      "stateId": 36,
+      "cost": "0"
+    },
+    {
+      "id": 65,
+      "name": "The Alamo",
+      "stateId": 37,
+      "cost": "15"
+    },
+    {
+      "id": 66,
+      "name": "Zion National Park",
+      "stateId": 38,
+      "cost": "30"
+    },
+    {
+      "id": 67,
+      "name": "Dinosaur National Monument",
+      "stateId": 39,
+      "cost": "0"
+    },
+    {
+      "id": 68,
+      "name": "Olympic National Park",
+      "stateId": 40,
+      "cost": "30"
+    },
+    {
+      "id": 69,
+      "name": "The Space Needle",
+      "stateId": 41,
+      "cost": "35"
+    },
+    {
+      "id": 70,
+      "name": "The Washington State Capitol",
+      "stateId": 42,
+      "cost": "0"
+    },
+    {
+      "id": 71,
+      "name": "The White House",
+      "stateId": 43,
+      "cost": "0"
+    },
+    {
+      "id": 72,
+      "name": "National Mall",
+      "stateId": 44,
+      "cost": "0"
+    },
+    {
+      "id": 73,
+      "name": "The National Gallery of Art",
+      "stateId": 45,
+      "cost": "0"
+    },
+    {
+      "id": 74,
+      "name": "The United States Capitol",
+      "stateId": 46,
+      "cost": "0"
+    },
+    {
+      "id": 75,
+      "name": "Mount Vernon",
+      "stateId": 47,
+      "cost": "20"
+    },
+    {
+      "id": 76,
+      "name": "George Washington's Mount Vernon",
+      "stateId": 48,
+      "cost": "20"
+    },
+    {
+      "id": 77,
+      "name": "The National Zoo",
+      "stateId": 49,
+      "cost": "0"
+    },
+    {
+      "id": 78,
+      "name": "Yellowstone National Park",
+      "stateId": 50,
+      "cost": "35"
+    },
+    {
+      "id": 79,
+      "name": "Grand Teton National Park",
+      "stateId": 50,
+      "cost": "30"
+    },
+    {
+      "id": 80,
+      "name": "Devils Tower National Monument",
+      "stateId": 50,
+      "cost": "10"
+    },
+    {
+      "id": 81,
+      "name": "Hot Springs State Park",
+      "stateId": 50,
+      "cost": "0"
+    }
+  ],
+  "food": [
+    {
+      "stateID": 1,
+      "restaurants": "The Fish Market"
+    },
+    {
+      "stateID": 2,
+      "restaurants": "The Crab Shack"
+    },
+    {
+      "stateID": 3,
+      "restaurants": "Pizzeria Bianco"
+    },
+    {
+      "stateID": 4,
+      "restaurants": "The Root Cafe"
+    },
+    {
+      "stateID": 5,
+      "restaurants": "In-N-Out Burger"
+    },
+    {
+      "stateID": 6,
+      "restaurants": "Linger"
+    },
+    {
+      "stateID": 7,
+      "restaurants": "Max Downtown"
+    },
+    {
+      "stateID": 8,
+      "restaurants": "The Green Room"
+    },
+    {
+      "stateID": 9,
+      "restaurants": "Bern's Steak House"
+    },
+    {
+      "stateID": 10,
+      "restaurants": "Mary Mac's Tea Room"
+    },
+    {
+      "stateID": 11,
+      "restaurants": "Aloha Kitchen"
+    },
+    {
+      "stateID": 12,
+      "restaurants": "Pizzeria Valdiano"
+    },
+    {
+      "stateID": 13,
+      "restaurants": "Giordano's"
+    },
+    {
+      "stateID": 14,
+      "restaurants": "St. Elmo Steak House"
+    },
+    {
+      "stateID": 15,
+      "restaurants": "The Cheese Shop"
+    },
+    {
+      "stateID": 16,
+      "restaurants": "The Rustic Fork"
+    },
+    {
+      "stateID": 17,
+      "restaurants": "Harlan's Kentucky Brew House"
+    },
+    {
+      "stateID": 18,
+      "restaurants": "Commander's Palace"
+    },
+    {
+      "stateID": 19,
+      "restaurants": "The Lost Kitchen"
+    },
+    {
+      "stateID": 20,
+      "restaurants": "Koco's Pub"
+    },
+    {
+      "stateID": 21,
+      "restaurants": "Neptune Oyster"
+    },
+    {
+      "stateID": 22,
+      "restaurants": "Zingerman's Delicatessen"
+    },
+    {
+      "stateID": 23,
+      "restaurants": "The Bachelor Farmer"
+    },
+    {
+      "stateID": 24,
+      "restaurants": "The Pig & Pint"
+    },
+    {
+      "stateID": 25,
+      "restaurants": "Pappy's Smokehouse"
+    },
+    {
+      "stateID": 26,
+      "restaurants": "The Hawk's Nest"
+    },
+    {
+      "stateID": 27,
+      "restaurants": "The Oven"
+    },
+    {
+      "stateID": 28,
+      "restaurants": "The Oyster Bar"
+    },
+    {
+      "stateID": 29,
+      "restaurants": "The Common Man"
+    },
+    {
+      "stateID": 30,
+      "restaurants": "Trenton Social"
+    },
+    {
+      "stateID": 31,
+      "restaurants": "The Shed"
+    },
+    {
+      "stateID": 32,
+      "restaurants": "Katz's Delicatessen"
+    },
+    {
+      "stateID": 33,
+      "restaurants": "Beasley's Chicken + Honey"
+    },
+    {
+      "stateID": 34,
+      "restaurants": "Roosevelt's Tavern"
+    },
+    {
+      "stateID": 35,
+      "restaurants": "The Melting Pot"
+    },
+    {
+      "stateID": 36,
+      "restaurants": "Cattlemen's Steakhouse"
+    },
+    {
+      "stateID": 37,
+      "restaurants": "Pok Pok"
+    },
+    {
+      "stateID": 38,
+      "restaurants": "Zahav"
+    },
+    {
+      "stateID": 39,
+      "restaurants": "Olneyville New York System"
+    },
+    {
+      "stateID": 40,
+      "restaurants": "Husk"
+    },
+    {
+      "stateID": 41,
+      "restaurants": "The Market"
+    },
+    {
+      "stateID": 42,
+      "restaurants": "Loveless Cafe"
+    },
+    {
+      "stateID": 43,
+      "restaurants": "Franklin Barbecue"
+    },
+    {
+      "stateID": 44,
+      "restaurants": "Red Iguana"
+    },
+    {
+      "stateID": 45,
+      "restaurants": "The Farmhouse Tap & Grill"
+    },
+    {
+      "stateID": 46,
+      "restaurants": "The Urban Farmhouse"
+    },
+    {
+      "stateID": 47,
+      "restaurants": "Canlis"
+    },
+    {
+      "stateID": 48,
+      "restaurants": "Black Sheep Burrito & Brews"
+    },
+    {
+      "stateID": 49,
+      "restaurants": "The Old Fashioned"
+    },
+    {
+      "stateID": 50,
+      "restaurants": "The Bunnery Bakery & Cafe"
+    }
+  ],
+  "publicTransportation": [
+    {
+      "stateID": 1,
+      "system": "Alabama Public Transportation",
+      "cost": "Varies by service",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 2,
+      "system": "Alaska Public Transportation",
+      "cost": "Varies by service",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 3,
+      "system": "Valley Metro (Phoenix)",
+      "cost": "$2.00 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 4,
+      "system": "Rock Region METRO (Little Rock)",
+      "cost": "$1.00 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 5,
+      "system": "Sacramento Regional Transit",
+      "cost": "$3.50 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 6,
+      "system": "RTD (Denver)",
+      "cost": "$3.00 per ride",
+      "runsThroughAirport": true
+    },
+    {
+      "stateID": 7,
+      "system": "CTtransit (Hartford)",
+      "cost": "$1.75 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 8,
+      "system": "DART First State (Dover)",
+      "cost": "$1.00 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 9,
+      "system": "StarMetro (Tallahassee)",
+      "cost": "$1.00 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 10,
+      "system": "MARTA (Atlanta)",
+      "cost": "$2.50 per ride",
+      "runsThroughAirport": true
+    },
+    {
+      "stateID": 11,
+      "system": "TheBus (Honolulu)",
+      "cost": "$3.00 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 12,
+      "system": "ValleyRide (Boise)",
+      "cost": "$1.50 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 13,
+      "system": "MTD (Champaign-Urbana)",
+      "cost": "$1.00 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 14,
+      "system": "IndyGo (Indianapolis)",
+      "cost": "$1.75 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 15,
+      "system": "DART (Des Moines)",
+      "cost": "$1.50 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 16,
+      "system": "Topeka Metro",
+      "cost": "$1.00 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 17,
+      "system": "Lextran (Lexington)",
+      "cost": "$1.00 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 18,
+      "system": "CATS (Baton Rouge)",
+      "cost": "$1.00 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 19,
+      "system": "Metro Transit (Augusta)",
+      "cost": "$1.00 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 20,
+      "system": "Maryland Transit Administration",
+      "cost": "$1.80 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 21,
+      "system": "MBTA (Boston)",
+      "cost": "$2.40 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 22,
+      "system": "Capital Area Transportation Authority (Lansing)",
+      "cost": "$1.50 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 23,
+      "system": "Metro Transit (Saint Paul)",
+      "cost": "$2.00 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 24,
+      "system": "Jackson Transit Authority",
+      "cost": "$1.00 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 25,
+      "system": "Metro Transit (Jefferson City)",
+      "cost": "$1.00 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 26,
+      "system": "Mountain Line (Helena)",
+      "cost": "$1.00 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 27,
+      "system": "StarTran (Lincoln)",
+      "cost": "$1.25 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 28,
+      "system": "RTC (Carson City)",
+      "cost": "$2.00 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 29,
+      "system": "CATA (Concord)",
+      "cost": "$1.50 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 30,
+      "system": "NJ Transit (Trenton)",
+      "cost": "$2.75 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 31,
+      "system": "Santa Fe Trails",
+      "cost": "$1.00 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 32,
+      "system": "MTA (Albany)",
+      "cost": "$2.75 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 33,
+      "system": "GoTriangle (Raleigh)",
+      "cost": "$2.00 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 34,
+      "system": "Cat's Cradle (Bismarck)",
+      "cost": "$1.00 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 35,
+      "system": "COTA (Columbus)",
+      "cost": "$2.00 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 36,
+      "system": "Embark (Oklahoma City)",
+      "cost": "$1.00 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 37,
+      "system": "Cherriots (Salem)",
+      "cost": "$1.50 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 38,
+      "system": "SEPTA (Philadelphia)",
+      "cost": "$2.50 per ride",
+      "runsThroughAirport": true
+    },
+    {
+      "stateID": 39,
+      "system": "RIPTA (Providence)",
+      "cost": "$2.00 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 40,
+      "system": "The COMET (Columbia)",
+      "cost": "$1.00 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 41,
+      "system": "Intercity Transit (Pierre)",
+      "cost": "$1.00 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 42,
+      "system": "WeGo Public Transit (Nashville)",
+      "cost": "$1.70 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 43,
+      "system": "Capital Metro (Austin)",
+      "cost": "$1.25 per ride",
+      "runsThroughAirport": true
+    },
+    {
+      "stateID": 44,
+      "system": "UTA (Salt Lake City)",
+      "cost": "$2.50 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 45,
+      "system": "Green Mountain Transit (Montpelier)",
+      "cost": "$1.00 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 46,
+      "system": "GRTC (Richmond)",
+      "cost": "$1.50 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 47,
+      "system": "Sound Transit (Olympia)",
+      "cost": "$2.50 per ride",
+      "runsThroughAirport": true
+    },
+    {
+      "stateID": 48,
+      "system": "Kanawha Valley Regional Transit Authority (Charleston)",
+      "cost": "$1.00 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 49,
+      "system": "Milwaukee County Transit System (Milwaukee)",
+      "cost": "$2.00 per ride",
+      "runsThroughAirport": false
+    },
+    {
+      "stateID": 50,
+      "system": "Wyoming Transit",
+      "cost": "$1.00 per ride",
+      "runsThroughAirport": false
+    }
+  ],
+  "trips": [
+    {
+      "startDate": "2024-11-13",
+      "endDate": "2024-11-23",
+      "stateId": "5",
+      "favoriteMemory": "Going to the beach!",
+      "city": "Los Angeles",
+      "publicTransportation": "No",
+      "attractions": "Disneyland",
+      "foodPlaces": "Joe's Pizza",
+      "firstTrip": true,
+      "id": 1
+    },
+    {
+      "startDate": "2024-12-06",
+      "endDate": "2024-12-08",
+      "stateId": "3",
+      "favoriteMemory": "Going to the Eras Tour!",
+      "city": "Phoenix",
+      "publicTransportation": "No",
+      "attractions": "State Farm Stadium",
+      "foodPlaces": "In-N-Out",
+      "firstTrip": true,
+      "id": 2
+    },
+    {
+      "startDate": "2024-12-06",
+      "endDate": "2024-12-12",
+      "stateId": "9",
+      "favoriteMemory": "Meeting Mickey Mouse",
+      "city": "Orlando",
+      "publicTransportation": "Yes",
+      "attractions": "Disney World",
+      "foodPlaces": "Disney Restaurant",
+      "firstTrip": true,
+      "id": 3
+    }
+  ]
+}
